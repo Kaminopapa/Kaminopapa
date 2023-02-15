@@ -1,4 +1,4 @@
-#Hello, Here's a little about me
+# Hello, Here's a little about me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lmghw/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="/assets/LinkedIn.png"/></a>
