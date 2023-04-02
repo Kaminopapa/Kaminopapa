@@ -39,7 +39,7 @@ Hi 👋, I am **Luis** an enthusiastic and ambitious frontend Developer. I speci
 ## 🔥 Github Stats [![Visits Badge](https://badges.strrl.dev/visits/Kaminopapa/Kaminopapa)](https://badges.strrl.dev)
 
 <div>
-<img align="right" width="48%" height="610px" src="./assets/meAvatar.jpeg"/>
+<img align="right" width="47%" height="610px" src="./assets/meAvatar.jpeg"/>
 
 <a  href="https://github.com/Kaminopapa"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kaminopapa&theme=dracula&title_color=489250&show_icons=true&icon_color=489250"></a>
 <a  href="https://github.com/Kaminopapa"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Kaminopapa&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=489250&fire=ff3068&sideNums=489250&title_color=489250"></a>
