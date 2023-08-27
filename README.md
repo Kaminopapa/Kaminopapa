@@ -24,13 +24,10 @@ Hi 👋, I am **Luis** an enthusiastic and ambitious frontend Developer. I speci
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 🤝 I’m looking for help with **finding a new role!**
-
 - 👨‍💻 All of my projects are available at [LMGHW's Portfolio](https://lmghw-portfolios.vercel.app/)
 
 - 💬 Ask me about **web development, layout design**
 
-- 📫 Reach me out at **luishung1996@gmail.com**
 
 </details>
   
@@ -39,11 +36,13 @@ Hi 👋, I am **Luis** an enthusiastic and ambitious frontend Developer. I speci
 ## 🔥 Github Stats [![Visits Badge](https://badges.strrl.dev/visits/Kaminopapa/Kaminopapa)](https://badges.strrl.dev)
 
 <div>
-<img align="right" width="47%" height="610px" src="./assets/meAvatar.jpeg"/>
 
+
+<!--
+<img align="right" width="47%" height="610px" src="./assets/meAvatar.jpeg"/>
 <a  href="https://github.com/Kaminopapa"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kaminopapa&theme=dracula&title_color=489250&show_icons=true&icon_color=489250"></a>
 <a  href="https://github.com/Kaminopapa"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Kaminopapa&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=489250&fire=ff3068&sideNums=489250&title_color=489250"></a>
-<a  href="https://github.com/Kaminopapa"><img  width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=kaminopapa&layout=compact&langs_count=8&bf_color=000&hide=Markdown,Bash&title_color=489250&custom_title=CodingTime&bg_color=282a36&text_color=fff"></a>
+<a  href="https://github.com/Kaminopapa"><img  width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=kaminopapa&layout=compact&langs_count=8&bf_color=000&hide=Markdown,Bash&title_color=489250&custom_title=CodingTime&bg_color=282a36&text_color=fff"></a>-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaminopapa&layout=compact&hide=css,shell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
